@@ -1,0 +1,38 @@
+name: Update CBC entries.json
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 2 * * *"   # daily at 02:00 UTC
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Generate entries.json from Sheet
+        run: npm run sync
+        env:
+          CBC_SHEET_URL: ${{ secrets.CBC_SHEET_URL }}
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain)" ]]; then
+            git add docs/entries.json docs/version.txt
+            git commit -m "chore: update entries.json ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
+            git push
+          else
+            echo "No changes"
+          fi
