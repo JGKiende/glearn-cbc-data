@@ -1,0 +1,10 @@
+{
+  "name": "glearn-cbc-data",
+  "private": true,
+  "type": "module",
+  "engines": { "node": ">=20" },
+  "scripts": {
+    "sync": "node scripts/sync.mjs",
+    "format": "node -e \"console.log('ok')\""
+  }
+}
