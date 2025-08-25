@@ -3,7 +3,7 @@ name: Update CBC entries.json
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 2 * * *"   # daily at 02:00 UTC
+    - cron: "0 2 * * *"   # runs daily at 02:00 UTC
 
 permissions:
   contents: write
@@ -15,24 +15,21 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          node-version: "20"
+          python-version: '3.10'
 
-      - name: Generate entries.json from Sheet
-        run: npm run sync
-        env:
-          CBC_SHEET_URL: ${{ secrets.CBC_SHEET_URL }}
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scripts/scrape_cbc.py
 
       - name: Commit changes if any
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain)" ]]; then
-            git add docs/entries.json docs/version.txt
-            git commit -m "chore: update entries.json ($(date -u +'%Y-%m-%dT%H:%M:%SZ'))"
-            git push
-          else
-            echo "No changes"
-          fi
+          git add docs/entries.json docs/version.txt || true
+          git diff --cached --quiet || git commit -m "chore: update entries.json ($(date -u +%Y-%m-%dT%H:%M:%SZ))"
+          git push
