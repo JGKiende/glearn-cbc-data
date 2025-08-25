@@ -1,0 +1,129 @@
+{
+  "meta": {
+    "source": "Google Sheet CSV",
+    "generatedAt": "2025-08-25T15:22:59.207Z",
+    "count": 6
+  },
+  "entries": [
+    {
+      "id": "MATH-G07-ALG-001",
+      "Grade": 7,
+      "Subject": "Mathematics",
+      "Concept": "Algebra — Simple equations",
+      "StudentQuestion": "How do I solve x + 5 = 12?",
+      "AIGuidedHint": "Undo +5. What operation brings x alone?",
+      "RelatedPrompt1": "Once you find x, how do you check it in the original?",
+      "RelatedPrompt2": "Could you create a similar equation and solve it?",
+      "Difficulty": "Easy",
+      "Tags": "algebra",
+      "_cbc": {
+        "level": "Junior School",
+        "strand": "Algebra",
+        "substrand": "Simple equations",
+        "slo": "Learner solves one-step linear equations.",
+        "ref": "",
+        "pathway": ""
+      }
+    },
+    {
+      "id": "SCI-G08-MAT-001",
+      "Grade": 8,
+      "Subject": "Integrated Science",
+      "Concept": "Matter — States and changes",
+      "StudentQuestion": "Why does ice become water then gas?",
+      "AIGuidedHint": "Heating adds energy. What happens to particle movement?",
+      "RelatedPrompt1": "Where do you see condensation at home?",
+      "RelatedPrompt2": "",
+      "Difficulty": "Medium",
+      "Tags": "matter",
+      "_cbc": {
+        "level": "Junior School",
+        "strand": "Matter",
+        "substrand": "States and changes",
+        "slo": "Learner explains states of matter and simple changes.",
+        "ref": "",
+        "pathway": ""
+      }
+    },
+    {
+      "id": "SOC-G08-MAPS-001",
+      "Grade": 8,
+      "Subject": "Social Studies",
+      "Concept": "Geography — Map skills",
+      "StudentQuestion": "How do I find northeast on a compass rose?",
+      "AIGuidedHint": "Start at N. Which way is E? What’s between them?",
+      "RelatedPrompt1": "Where is the legend that explains symbols?",
+      "RelatedPrompt2": "",
+      "Difficulty": "Easy",
+      "Tags": "map skills",
+      "_cbc": {
+        "level": "Junior School",
+        "strand": "Geography",
+        "substrand": "Map skills",
+        "slo": "Learner interprets basic map symbols and directions.",
+        "ref": "",
+        "pathway": ""
+      }
+    },
+    {
+      "id": "ENG-G10-ARG-001",
+      "Grade": 10,
+      "Subject": "English",
+      "Concept": "Writing — Argumentation",
+      "StudentQuestion": "How do I write a strong claim with evidence?",
+      "AIGuidedHint": "State your opinion. What fact/quote supports it?",
+      "RelatedPrompt1": "Explain why that evidence matters.",
+      "RelatedPrompt2": "",
+      "Difficulty": "Medium",
+      "Tags": "argument,evidence",
+      "_cbc": {
+        "level": "Senior School",
+        "strand": "Writing",
+        "substrand": "Argumentation",
+        "slo": "Learner writes a claim supported by evidence.",
+        "ref": "",
+        "pathway": "Humanities & Languages"
+      }
+    },
+    {
+      "id": "MATH-G12-QUAD-001",
+      "Grade": 12,
+      "Subject": "Mathematics",
+      "Concept": "Algebra — Quadratic formula",
+      "StudentQuestion": "How do I solve 2x^2 + x − 3 = 0?",
+      "AIGuidedHint": "Identify a, b, c. What are they here?",
+      "RelatedPrompt1": "What does the discriminant tell you about solutions?",
+      "RelatedPrompt2": "",
+      "Difficulty": "Hard",
+      "Tags": "quadratic,formula",
+      "_cbc": {
+        "level": "Senior School",
+        "strand": "Algebra",
+        "substrand": "Quadratic formula",
+        "slo": "Learner solves quadratics using the quadratic formula.",
+        "ref": "",
+        "pathway": "Pure Sciences"
+      }
+    },
+    {
+      "id": "GEO-G11-ECON-001",
+      "Grade": 11,
+      "Subject": "Geography",
+      "Concept": "Human Geography — Economic activities",
+      "StudentQuestion": "What is the main economic activity near a coffee farm, game park and lake?",
+      "AIGuidedHint": "Farms → agriculture, lakes → fishing, parks → tourism. Which dominates here?",
+      "RelatedPrompt1": "Which activity gives daily income to most residents?",
+      "RelatedPrompt2": "",
+      "Difficulty": "Medium",
+      "Tags": "economic activities,maps",
+      "_cbc": {
+        "level": "Senior School",
+        "strand": "Human Geography",
+        "substrand": "Economic activities",
+        "slo": "Learner relates physical features to economic activity.",
+        "ref": "",
+        "pathway": "Humanities"
+      }
+    }
+  ]
+}
