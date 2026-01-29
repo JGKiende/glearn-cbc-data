@@ -1,5 +1,5 @@
 {
-  "updated": "2026-01-28T03:26:17.189590",
+  "updated": "2026-01-29T03:57:47.209840",
   "entries": [
     {
       "RowId": "Curriculum Development & Research-G7-001",
@@ -512,7 +512,24 @@
       "Pathway": ""
     },
     {
-      "RowId": "Curriculum Designs-G7-031",
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G7-031",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VOCATIONAL LEVEL DESIGNS",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vocational-level-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "Curriculum Designs-G7-032",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "Curriculum Designs",
@@ -1039,7 +1056,24 @@
       "Pathway": ""
     },
     {
-      "RowId": "Curriculum Designs-G8-031",
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G8-031",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VOCATIONAL LEVEL DESIGNS",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vocational-level-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "Curriculum Designs-G8-032",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "Curriculum Designs",
@@ -1566,7 +1600,24 @@
       "Pathway": ""
     },
     {
-      "RowId": "Curriculum Designs-G9-031",
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G9-031",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VOCATIONAL LEVEL DESIGNS",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vocational-level-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "Curriculum Designs-G9-032",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "Curriculum Designs",
@@ -2093,7 +2144,24 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "Curriculum Designs-G10-031",
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G10-031",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VOCATIONAL LEVEL DESIGNS",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vocational-level-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "Curriculum Designs-G10-032",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "Curriculum Designs",
@@ -2620,7 +2688,24 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "Curriculum Designs-G11-031",
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G11-031",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VOCATIONAL LEVEL DESIGNS",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vocational-level-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "Curriculum Designs-G11-032",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "Curriculum Designs",
@@ -3147,7 +3232,24 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "Curriculum Designs-G12-031",
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G12-031",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VOCATIONAL LEVEL DESIGNS",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vocational-level-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "Curriculum Designs-G12-032",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "Curriculum Designs",
