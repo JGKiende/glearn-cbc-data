@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T05:55:39.690612",
+  "updated": "2026-05-27T06:05:38.968141",
   "entries": [
     {
       "RowId": "Curriculum Development & Research-G7-001",
@@ -716,7 +716,24 @@
       "Pathway": ""
     },
     {
-      "RowId": "PI PP2 Designs-G7-043",
+      "RowId": "PI PP1 Designs-G7-043",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "PI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/pi-pp1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "PI PP2 Designs-G7-044",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "PI PP2 Designs",
@@ -733,7 +750,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G7-044",
+      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G7-045",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "PREVOCATIONAL CURRICULUM DESIGNS",
@@ -750,7 +767,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 10-G7-045",
+      "RowId": "VI Grade 10-G7-046",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "VI Grade 10",
@@ -767,7 +784,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 8-G7-046",
+      "RowId": "VI Grade 8-G7-047",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "VI Grade 8",
@@ -784,7 +801,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 9-G7-047",
+      "RowId": "VI Grade 9-G7-048",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "VI Grade 9",
@@ -801,7 +818,58 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade Seven(7)-G7-048",
+      "RowId": "VI Grade Five (5) Designs-G7-049",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI Grade Five (5) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-five-5-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Four (4) Designs-G7-050",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI Grade Four (4) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-four-4-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade One (1) Designs-G7-051",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI Grade One (1) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-one-1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Seven(7)-G7-052",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "VI Grade Seven(7)",
@@ -818,7 +886,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade Six (6) Designs-G7-049",
+      "RowId": "VI Grade Six (6) Designs-G7-053",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "VI Grade Six (6) Designs",
@@ -835,7 +903,75 @@
       "Pathway": ""
     },
     {
-      "RowId": "VOCATIONAL LEVEL DESIGNS-G7-050",
+      "RowId": "VI Grade Three (3) Designs-G7-054",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI Grade Three (3) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-three-3-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Two (2) Designs-G7-055",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI Grade Two (2) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-two-2-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI PP1 Designs-G7-056",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI PP2 Designs-G7-057",
+      "CBC_Level": "Junior School",
+      "Grade": 7,
+      "Subject": "VI PP2 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp2-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G7-058",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "VOCATIONAL LEVEL DESIGNS",
@@ -852,7 +988,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "Curriculum Designs-G7-051",
+      "RowId": "Curriculum Designs-G7-059",
       "CBC_Level": "Junior School",
       "Grade": 7,
       "Subject": "Curriculum Designs",
@@ -1583,7 +1719,24 @@
       "Pathway": ""
     },
     {
-      "RowId": "PI PP2 Designs-G8-043",
+      "RowId": "PI PP1 Designs-G8-043",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "PI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/pi-pp1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "PI PP2 Designs-G8-044",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "PI PP2 Designs",
@@ -1600,7 +1753,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G8-044",
+      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G8-045",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "PREVOCATIONAL CURRICULUM DESIGNS",
@@ -1617,7 +1770,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 10-G8-045",
+      "RowId": "VI Grade 10-G8-046",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "VI Grade 10",
@@ -1634,7 +1787,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 8-G8-046",
+      "RowId": "VI Grade 8-G8-047",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "VI Grade 8",
@@ -1651,7 +1804,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 9-G8-047",
+      "RowId": "VI Grade 9-G8-048",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "VI Grade 9",
@@ -1668,7 +1821,58 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade Seven(7)-G8-048",
+      "RowId": "VI Grade Five (5) Designs-G8-049",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI Grade Five (5) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-five-5-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Four (4) Designs-G8-050",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI Grade Four (4) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-four-4-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade One (1) Designs-G8-051",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI Grade One (1) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-one-1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Seven(7)-G8-052",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "VI Grade Seven(7)",
@@ -1685,7 +1889,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade Six (6) Designs-G8-049",
+      "RowId": "VI Grade Six (6) Designs-G8-053",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "VI Grade Six (6) Designs",
@@ -1702,7 +1906,75 @@
       "Pathway": ""
     },
     {
-      "RowId": "VOCATIONAL LEVEL DESIGNS-G8-050",
+      "RowId": "VI Grade Three (3) Designs-G8-054",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI Grade Three (3) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-three-3-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Two (2) Designs-G8-055",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI Grade Two (2) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-two-2-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI PP1 Designs-G8-056",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI PP2 Designs-G8-057",
+      "CBC_Level": "Junior School",
+      "Grade": 8,
+      "Subject": "VI PP2 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp2-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G8-058",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "VOCATIONAL LEVEL DESIGNS",
@@ -1719,7 +1991,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "Curriculum Designs-G8-051",
+      "RowId": "Curriculum Designs-G8-059",
       "CBC_Level": "Junior School",
       "Grade": 8,
       "Subject": "Curriculum Designs",
@@ -2450,7 +2722,24 @@
       "Pathway": ""
     },
     {
-      "RowId": "PI PP2 Designs-G9-043",
+      "RowId": "PI PP1 Designs-G9-043",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "PI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/pi-pp1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "PI PP2 Designs-G9-044",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "PI PP2 Designs",
@@ -2467,7 +2756,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G9-044",
+      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G9-045",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "PREVOCATIONAL CURRICULUM DESIGNS",
@@ -2484,7 +2773,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 10-G9-045",
+      "RowId": "VI Grade 10-G9-046",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "VI Grade 10",
@@ -2501,7 +2790,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 8-G9-046",
+      "RowId": "VI Grade 8-G9-047",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "VI Grade 8",
@@ -2518,7 +2807,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade 9-G9-047",
+      "RowId": "VI Grade 9-G9-048",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "VI Grade 9",
@@ -2535,7 +2824,58 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade Seven(7)-G9-048",
+      "RowId": "VI Grade Five (5) Designs-G9-049",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI Grade Five (5) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-five-5-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Four (4) Designs-G9-050",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI Grade Four (4) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-four-4-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade One (1) Designs-G9-051",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI Grade One (1) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-one-1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Seven(7)-G9-052",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "VI Grade Seven(7)",
@@ -2552,7 +2892,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "VI Grade Six (6) Designs-G9-049",
+      "RowId": "VI Grade Six (6) Designs-G9-053",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "VI Grade Six (6) Designs",
@@ -2569,7 +2909,75 @@
       "Pathway": ""
     },
     {
-      "RowId": "VOCATIONAL LEVEL DESIGNS-G9-050",
+      "RowId": "VI Grade Three (3) Designs-G9-054",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI Grade Three (3) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-three-3-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI Grade Two (2) Designs-G9-055",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI Grade Two (2) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-two-2-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI PP1 Designs-G9-056",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp1-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VI PP2 Designs-G9-057",
+      "CBC_Level": "Junior School",
+      "Grade": 9,
+      "Subject": "VI PP2 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp2-designs/",
+      "Pathway": ""
+    },
+    {
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G9-058",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "VOCATIONAL LEVEL DESIGNS",
@@ -2586,7 +2994,7 @@
       "Pathway": ""
     },
     {
-      "RowId": "Curriculum Designs-G9-051",
+      "RowId": "Curriculum Designs-G9-059",
       "CBC_Level": "Junior School",
       "Grade": 9,
       "Subject": "Curriculum Designs",
@@ -3317,7 +3725,24 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "PI PP2 Designs-G10-043",
+      "RowId": "PI PP1 Designs-G10-043",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "PI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/pi-pp1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "PI PP2 Designs-G10-044",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "PI PP2 Designs",
@@ -3334,7 +3759,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G10-044",
+      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G10-045",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "PREVOCATIONAL CURRICULUM DESIGNS",
@@ -3351,7 +3776,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 10-G10-045",
+      "RowId": "VI Grade 10-G10-046",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "VI Grade 10",
@@ -3368,7 +3793,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 8-G10-046",
+      "RowId": "VI Grade 8-G10-047",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "VI Grade 8",
@@ -3385,7 +3810,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 9-G10-047",
+      "RowId": "VI Grade 9-G10-048",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "VI Grade 9",
@@ -3402,7 +3827,58 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade Seven(7)-G10-048",
+      "RowId": "VI Grade Five (5) Designs-G10-049",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI Grade Five (5) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-five-5-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Four (4) Designs-G10-050",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI Grade Four (4) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-four-4-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade One (1) Designs-G10-051",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI Grade One (1) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-one-1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Seven(7)-G10-052",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "VI Grade Seven(7)",
@@ -3419,7 +3895,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade Six (6) Designs-G10-049",
+      "RowId": "VI Grade Six (6) Designs-G10-053",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "VI Grade Six (6) Designs",
@@ -3436,7 +3912,75 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VOCATIONAL LEVEL DESIGNS-G10-050",
+      "RowId": "VI Grade Three (3) Designs-G10-054",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI Grade Three (3) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-three-3-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Two (2) Designs-G10-055",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI Grade Two (2) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-two-2-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI PP1 Designs-G10-056",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI PP2 Designs-G10-057",
+      "CBC_Level": "Senior School",
+      "Grade": 10,
+      "Subject": "VI PP2 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp2-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G10-058",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "VOCATIONAL LEVEL DESIGNS",
@@ -3453,7 +3997,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "Curriculum Designs-G10-051",
+      "RowId": "Curriculum Designs-G10-059",
       "CBC_Level": "Senior School",
       "Grade": 10,
       "Subject": "Curriculum Designs",
@@ -4184,7 +4728,24 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "PI PP2 Designs-G11-043",
+      "RowId": "PI PP1 Designs-G11-043",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "PI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/pi-pp1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "PI PP2 Designs-G11-044",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "PI PP2 Designs",
@@ -4201,7 +4762,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G11-044",
+      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G11-045",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "PREVOCATIONAL CURRICULUM DESIGNS",
@@ -4218,7 +4779,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 10-G11-045",
+      "RowId": "VI Grade 10-G11-046",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "VI Grade 10",
@@ -4235,7 +4796,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 8-G11-046",
+      "RowId": "VI Grade 8-G11-047",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "VI Grade 8",
@@ -4252,7 +4813,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 9-G11-047",
+      "RowId": "VI Grade 9-G11-048",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "VI Grade 9",
@@ -4269,7 +4830,58 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade Seven(7)-G11-048",
+      "RowId": "VI Grade Five (5) Designs-G11-049",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI Grade Five (5) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-five-5-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Four (4) Designs-G11-050",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI Grade Four (4) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-four-4-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade One (1) Designs-G11-051",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI Grade One (1) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-one-1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Seven(7)-G11-052",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "VI Grade Seven(7)",
@@ -4286,7 +4898,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade Six (6) Designs-G11-049",
+      "RowId": "VI Grade Six (6) Designs-G11-053",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "VI Grade Six (6) Designs",
@@ -4303,7 +4915,75 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VOCATIONAL LEVEL DESIGNS-G11-050",
+      "RowId": "VI Grade Three (3) Designs-G11-054",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI Grade Three (3) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-three-3-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Two (2) Designs-G11-055",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI Grade Two (2) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-two-2-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI PP1 Designs-G11-056",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI PP2 Designs-G11-057",
+      "CBC_Level": "Senior School",
+      "Grade": 11,
+      "Subject": "VI PP2 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp2-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G11-058",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "VOCATIONAL LEVEL DESIGNS",
@@ -4320,7 +5000,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "Curriculum Designs-G11-051",
+      "RowId": "Curriculum Designs-G11-059",
       "CBC_Level": "Senior School",
       "Grade": 11,
       "Subject": "Curriculum Designs",
@@ -5051,7 +5731,24 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "PI PP2 Designs-G12-043",
+      "RowId": "PI PP1 Designs-G12-043",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "PI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/pi-pp1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "PI PP2 Designs-G12-044",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "PI PP2 Designs",
@@ -5068,7 +5765,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G12-044",
+      "RowId": "PREVOCATIONAL CURRICULUM DESIGNS-G12-045",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "PREVOCATIONAL CURRICULUM DESIGNS",
@@ -5085,7 +5782,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 10-G12-045",
+      "RowId": "VI Grade 10-G12-046",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "VI Grade 10",
@@ -5102,7 +5799,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 8-G12-046",
+      "RowId": "VI Grade 8-G12-047",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "VI Grade 8",
@@ -5119,7 +5816,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade 9-G12-047",
+      "RowId": "VI Grade 9-G12-048",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "VI Grade 9",
@@ -5136,7 +5833,58 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade Seven(7)-G12-048",
+      "RowId": "VI Grade Five (5) Designs-G12-049",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI Grade Five (5) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-five-5-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Four (4) Designs-G12-050",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI Grade Four (4) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-four-4-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade One (1) Designs-G12-051",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI Grade One (1) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-one-1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Seven(7)-G12-052",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "VI Grade Seven(7)",
@@ -5153,7 +5901,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VI Grade Six (6) Designs-G12-049",
+      "RowId": "VI Grade Six (6) Designs-G12-053",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "VI Grade Six (6) Designs",
@@ -5170,7 +5918,75 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "VOCATIONAL LEVEL DESIGNS-G12-050",
+      "RowId": "VI Grade Three (3) Designs-G12-054",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI Grade Three (3) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-three-3-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI Grade Two (2) Designs-G12-055",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI Grade Two (2) Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-grade-two-2-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI PP1 Designs-G12-056",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI PP1 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp1-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VI PP2 Designs-G12-057",
+      "CBC_Level": "Senior School",
+      "Grade": 12,
+      "Subject": "VI PP2 Designs",
+      "Strand": "",
+      "Substrand": "",
+      "SLO": "",
+      "StudentQuestion": "",
+      "GuidedHint": "",
+      "FollowUp1": "",
+      "FollowUp2": "",
+      "Difficulty": "",
+      "Tags": "",
+      "KICD_RefURL": "https://kicd.ac.ke/cbc-materials/curriculum-designs/sne-curriculum-designs/vi-pp2-designs/",
+      "Pathway": "TBD"
+    },
+    {
+      "RowId": "VOCATIONAL LEVEL DESIGNS-G12-058",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "VOCATIONAL LEVEL DESIGNS",
@@ -5187,7 +6003,7 @@
       "Pathway": "TBD"
     },
     {
-      "RowId": "Curriculum Designs-G12-051",
+      "RowId": "Curriculum Designs-G12-059",
       "CBC_Level": "Senior School",
       "Grade": 12,
       "Subject": "Curriculum Designs",
